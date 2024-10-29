@@ -8,6 +8,7 @@ body {
     background-color: #FFFBF3;
     margin: 0;
     font-family: 'Inter';
+    overflow-x: hidden;
 }
 
 .wrap {
